@@ -98,10 +98,10 @@ The *Elect_Viz* project is a comprehensive example of how **data visualization a
 
 ### 💬 Contributors
 - Blessy M
-- Aadharsh Chetry 
-- Ankitha G
+- Aadarsh Chetry 
+- Ankitha Gughe
 - Varad Srivatsava
-- Vaisanavi Jagler
+- Vaishnavi Jagler
 
 Year: 2026
 
