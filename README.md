@@ -99,7 +99,7 @@ The *Elect_Viz* project is a comprehensive example of how **data visualization a
 ### 💬 Contributors
 - Blessy M
 - Aadarsh Chetry 
-- Ankitha Gughe
+- Ankitha Gudhe
 - Varad Srivatsava
 - Vaishnavi Jagler
 
