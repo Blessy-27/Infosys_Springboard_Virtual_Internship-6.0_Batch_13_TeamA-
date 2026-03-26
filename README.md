@@ -100,8 +100,9 @@ The *Elect_Viz* project is a comprehensive example of how **data visualization a
 - Blessy M
 - Aadarsh Chetry 
 - Ankitha Gudhe
-- Varad Srivatsava
+- Varad Srivastava
 - Vaishnavi Jagler
+  
 
 Year: 2026
 
