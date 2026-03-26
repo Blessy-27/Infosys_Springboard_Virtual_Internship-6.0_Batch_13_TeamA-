@@ -11,10 +11,8 @@ The project demonstrates how data analytics and visualization can enhance politi
 
 Here’s an overview of the files in this repository:
 
-- **Team_Members_PPT/** – Individual PPT slides for each team member  
 - **ElectViz_Election_Data_Visualization_for_Media_Project.pbix** – Power BI project file  
 - **ElectViz_Group_PPT.pptx** – Group presentation slides  
-- **ElectViz_Project_PDF.pdf** – Final project in PDF  
 - **Internship_Completion_Report.pdf** – Internship completion report  
 - **LICENSE** – License file
 - **README.md**
