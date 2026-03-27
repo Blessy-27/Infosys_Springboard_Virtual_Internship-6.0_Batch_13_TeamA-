@@ -11,7 +11,8 @@ The project demonstrates how data analytics and visualization can enhance politi
 
 Here’s an overview of the files in this repository:
 
-- **ElectViz_Election_Data_Visualization_for_Media_Project.pbix** – Power BI project file   
+- **ElectViz_Election_Data_Visualization_for_Media_Project.pbix** – Power BI project file
+- **ElectViz.ppt** - Group Presentation Slides   
 - **LICENSE** – License file
 - **README.md**
 
