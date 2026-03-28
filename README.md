@@ -90,6 +90,22 @@ This internship-based project successfully **bridged academic learning with real
 
 ---
 
+### Dashboard Screenshots:
+
+## State Analysis
+![State Analysis](screenshots/State_Analysis.jpg)
+
+## Constituency Analysis
+![Constituency Analysis](screenshots/Constituency_Analysis.jpg)
+
+## Party Performance Analysis
+![Party Analysis](screenshots/Party_Performance_Analysis.jpg)
+
+## Overview Analysis
+![Overview Analysis](screenshots/Overview_Analysis.jpg)
+
+---
+
 ## 🏁 Conclusion
 The *Elect_Viz* project is a comprehensive example of how **data visualization and analytics** can enhance media reporting and public understanding of election outcomes. By leveraging Power BI and analytical storytelling, this project bridges the gap between data and democracy, turning numbers into narratives.
 
