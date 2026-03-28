@@ -91,7 +91,6 @@ This internship-based project successfully **bridged academic learning with real
 ---
 
 ### Dashboard Screenshots:
-
 ## State Analysis
 ![State Analysis](screenshots/State_Analysis.jpg)
 
@@ -112,12 +111,14 @@ The *Elect_Viz* project is a comprehensive example of how **data visualization a
 ---
 
 ### 💬 Contributors
-- Blessy M
 - Aadarsh Chetry 
 - Ankitha Gudhe
-- Varad Srivastava
-- Vaishnavi Jagler
+- Blessy M
 - Jyoshna Macharla
+- Vaishnavi Jagler
+- Varad Srivastava
+
+
   
 
 Year: 2026
